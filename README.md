@@ -106,6 +106,6 @@ Delete User → DELETE /users/{id} → 204
 ## 👨‍💻 Author
 
 Mohan Ranga  
-QA Tester 
+QA Automation Engineer (Fresher)
 
 If you like this project, star the repository ⭐
