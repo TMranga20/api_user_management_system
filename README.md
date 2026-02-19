@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Pytest](https://img.shields.io/badge/Pytest-API%20Testing-green)
 ![API Automation](https://img.shields.io/badge/API-Automation-red)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-HTTP-orange)
 ![Report](https://img.shields.io/badge/Report-pytest--html-red)
 ![Status](https://img.shields.io/badge/Tests-Passing-brightgreen)
@@ -22,6 +23,7 @@ A production-style API - User Management System built using Python, Pytest, and 
 ✔ Request & response logging for debugging  
 ✔ HTML test execution report generation  
 ✔ Clean GitHub-ready project structure  
+✔ Postman collection for manual & automated API testing 
 
 ---
 
@@ -30,7 +32,8 @@ A production-style API - User Management System built using Python, Pytest, and 
 - Python  
 - Pytest  
 - Requests  
-- pytest-html  
+- pytest-html
+- Postman  
 - Git & GitHub  
 
 ---
@@ -41,6 +44,8 @@ api_user_management/
 ├── tests/
 
 ├── utils/
+
+├── postman/
 
 ├── reports/
 
