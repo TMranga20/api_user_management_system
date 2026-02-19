@@ -16,3 +16,5 @@ reports/
 # OS
 .DS_Store
 Thumbs.db
+
+postman/*environment*.json
